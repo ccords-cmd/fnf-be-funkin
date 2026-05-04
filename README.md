@@ -1,2 +1,0 @@
-# fnf-be-funkin
-fnf
